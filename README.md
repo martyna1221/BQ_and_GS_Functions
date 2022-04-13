@@ -9,3 +9,5 @@
         (2) BQ function which grabs all table names (project.dataset.table) 
             from a specific dataset in BQ project
         (3) Query BQ tables that have a specific column name
+
+Pick and choose which functions you wish to use in your project.
